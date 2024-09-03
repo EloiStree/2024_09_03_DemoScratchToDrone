@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.dronenovicemove",                              
+  "displayName": "Demo Novice Drone",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Code to move a a drone as a novice in Unity3D.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_09_03_DemoScratchToDrone.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
